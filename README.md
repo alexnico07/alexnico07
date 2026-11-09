@@ -10,7 +10,6 @@ I like building things where software meets hardware: robots, electronics, home 
 
 - **A LEGO EV3 robot arm** with homing, IR remote control and a simulator
 - **Learning ROS 2** (Jazzy, running in WSL), working through the Articulated Robotics tutorials
-- **Sensor instrumentation for an electric tuk-tuk** as part of vacation work (ESP32-S3 nodes, CAN bus, Raspberry Pi hub)
 - **Running AI models locally** with Ollama and Docker on my own hardware
 
 ---
